@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Sammy",
+      "species": "Reptile",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "11"
     }
   ]
 }
